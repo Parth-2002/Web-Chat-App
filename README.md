@@ -84,6 +84,9 @@ Add necessary environment variables (e.g., JWT secret key).
 
 # 🤝 Contributing
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/ncdai/chanhdai.com.svg?variant=dark)](https://starchart.cc/ncdai/chanhdai.com)
+
 Contributions are welcome! Fork the repo, create a branch, and submit a pull request with your improvements.
 
 # 📬 Contact
